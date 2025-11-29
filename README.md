@@ -186,26 +186,6 @@ It focuses on safe, efficient movement by dynamically calculating routes that av
 
 ---
 
-## 📂 Project Structure
-
-├─ src/
-│ ├─ App.jsx
-│ ├─ components/
-│ │ ├─ DynamicRoadRouting.jsx
-│ │ ├─ DynamicPopulationGrid.js
-│ │ ├─ DynamicOSRMRouter.js
-│ │ ├─ MapClickHandler.jsx
-│ │ └─ ...
-│ └─ ...
-├─ public/
-│ └─ ...
-├─ package.json
-└─ README.md
-
-> Component names may differ slightly based on your implementation, but the core pieces remain: map, crowds, routing, and interaction handlers.
-
----
-
 ## 🔧 Extending the App
 
 Potential enhancements:
